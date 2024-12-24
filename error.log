@@ -1,0 +1,330 @@
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"scrollPage is not defined","level":"error","message":"Error:"}
+{"error":"selector.startsWith is not a function","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"googleReviewsData is not defined","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of undefined (reading 'reviews')","level":"error","message":"Error:"}
+{"error":"totalReviewsSelector is not defined","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error:"}
+{"error":"getGoogleReviewsWithTimeoutAndRetry is not defined","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"reviewDialogList is not defined","level":"error","message":"Error:"}
+{"error":"reviewDialogList is not defined","level":"error","message":"Error:"}
+{"error":"reviewDialogList is not defined","level":"error","message":"Error:"}
+{"error":"reviewDialogList is not defined","level":"error","message":"Error:"}
+{"error":"Cannot read properties of undefined (reading 'length')","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"scrollPageWithRetry is not defined","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"reviews is not defined","level":"error","message":"Error during Google Reviews extraction:"}
+{"error":"Error extracting Google Reviews","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Review count mismatch","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Review count mismatch","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Review count mismatch","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Review count mismatch","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Cannot read properties of undefined (reading 'reviews')","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Error scraping Google Reviews: Unexpected number of reviews received","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Error scraping Google Reviews: Unexpected number of reviews received","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Error scraping Google Reviews: Unexpected number of reviews received","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Unexpected number of reviews received","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Unexpected number of reviews received","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Unexpected number of reviews received","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Unexpected number of reviews received","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Unexpected number of reviews received","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"page.waitForTimeout is not a function","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"page.waitFor is not a function","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"page.waitForTimeout is not a function","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.review-dialog-list` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"page.waitForTimeout is not a function","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"scrollPageWithRetry is not defined","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"scrollPage is not defined","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"scrollPageWithRetry is not defined","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"page.waitForTimeout is not a function","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"page.waitFor is not a function","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"page.waitFor is not a function","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"page.waitForTimeout is not a function","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"page.waitFor is not a function","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"page.waitForTimeout is not a function","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"scrapeGoogleReviews is not defined","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"scrollPageWithRetry is not defined","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Runtime.evaluate timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"timePerBatch is not defined","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"throttlingFactor is not defined","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"DOM.describeNode timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.","level":"error","message":"Error during Google Reviews extraction:"}
+{"error":"Error extracting Google Reviews","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"totalReviews is not defined","level":"error","message":"Error:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error:"}
+{"error":"Execution context was destroyed, most likely because of a navigation.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.review-dialog-list` failed: Protocol error (Runtime.callFunctionOn): Target closed","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"browser.newPage is not a function","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"browser.newPage is not a function","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"browser.newPage is not a function","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"browser.newPage is not a function","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Execution context was destroyed, most likely because of a navigation.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Execution context was destroyed, most likely because of a navigation.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Execution context was destroyed, most likely because of a navigation.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Execution context was destroyed, most likely because of a navigation.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Cannot read properties of null (reading 'scrollTo')","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Protocol error (Runtime.evaluate): Target closed","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.review-dialog-list` failed: Protocol error (Runtime.callFunctionOn): Target closed","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.review-dialog-list` failed: Protocol error (Runtime.callFunctionOn): Target closed","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Assignment to constant variable.","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigation timeout of 2000 ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigation timeout of 2000 ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigation timeout of 2000 ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"No element found for selector: text=\"Not now\"","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Execution context was destroyed, most likely because of a navigation.","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Execution context was destroyed, most likely because of a navigation.","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Execution context was destroyed, most likely because of a navigation.","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Execution context was destroyed, most likely because of a navigation.","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"res is not defined","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"memoryCache.get is not a function","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"memoryCache.wrap is not a function","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"fetchGoogleReviews is not defined","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.g` failed: Waiting failed: 10000ms exceeded","level":"error","message":"Error searching for firm:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Protocol error (Runtime.callFunctionOn): Target closed","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Protocol error (Runtime.callFunctionOn): Target closed","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `textarea` failed: Waiting failed: 5000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `textarea` failed: Waiting failed: 5000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `textarea` failed: Waiting failed: 5000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `textarea` failed: Waiting failed: 5000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigation timeout of 2000 ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigation timeout of 15000 ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigation timeout of 15000 ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigation timeout of 15000 ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigation timeout of 15000 ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigation timeout of 15000 ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigation timeout of 15000 ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigation timeout of 15000 ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigation timeout of 2000 ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigation timeout of 2000 ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigation timeout of 2000 ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Cannot read properties of null (reading 'getAttribute')\npptr:$$eval;getGoogleReviewsWithTimeoutAndRetry%20(D%3A%5Cbeau-api-local-working%5Capi.js%3A424%3A42):4:56","level":"error","message":"Error fetching Google reviews:"}
+{"error":"Error fetching Google reviews","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Cannot read properties of null (reading 'getAttribute')\npptr:$$eval;getGoogleReviewsWithTimeoutAndRetry%20(D%3A%5Cbeau-api-local-working%5Capi.js%3A424%3A42):4:56","level":"error","message":"Error fetching Google reviews:"}
+{"error":"Error fetching Google reviews","level":"error","message":"Error during scrolling:"}
+{"error":"Error scrolling page","level":"error","message":"Error during Google Reviews scraping:"}
+{"error":"Error scraping Google Reviews","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigating frame was detached","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigating frame was detached","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Navigating frame was detached","level":"error","message":"Error during Free Google Reviews:"}
+{"error":"Waiting for selector `.hqzQac a span` failed: Waiting failed: 30000ms exceeded","level":"error","message":"Error during Free Google Reviews:"}
